@@ -12,14 +12,9 @@ Build a strong Python foundation
 Apply Python to Networking and DevOps
 Automate repetitive tasks
 Develop problem-solving skills
-Prepare for Cloud and DevOps engineering roles
 Current Progress
 Chapter 1 - Getting Started
 Chapter 2 - Variables and Simple Data Types
 Chapter 3 - Lists
-Chapter 4 - Working with Lists
-Chapter 5 - If Statements
 About the Code
 All exercises and code samples are written by me as part of my learning journey.
-
-Documentation formatting and explanations may be refined with the help of Microsoft Copilot.
